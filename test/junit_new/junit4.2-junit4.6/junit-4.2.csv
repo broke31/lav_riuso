@@ -1,0 +1,22 @@
+Project,Release,Class Name,NOPA,mcCabeMetric,WCM,LCOM2,featureSum,ELOC,DIT,NOC,LOC
+JUNIT,junit-4.2,ActiveTestTest.java,0.0,7.0,0.0,0.0,0.0,0.0,1,0,64
+JUNIT,junit-4.2,AssertTest.java,0.0,37.0,0.0,0.0,0.0,0.0,1,0,147
+JUNIT,junit-4.2,ExtensionTest.java,0.0,11.0,0.0,0.0,0.0,0.0,1,0,98
+JUNIT,junit-4.2,Failure.java,0.0,1.0,0.0,0.0,0.0,0.0,1,0,14
+JUNIT,junit-4.2,IMoney.java,0.0,11.0,0.0,0.0,0.0,0.0,0,0,45
+JUNIT,junit-4.2,InheritedTestCase.java,0.0,1.0,0.0,0.0,0.0,0.0,1,0,9
+JUNIT,junit-4.2,Money.java,0.0,30.0,0.0,0.0,0.0,0.0,0,0,78
+JUNIT,junit-4.2,MoneyBag.java,0.0,46.0,0.0,0.0,0.0,0.0,0,0,124
+JUNIT,junit-4.2,NoTestCaseClass.java,0.0,1.0,0.0,0.0,0.0,0.0,1,0,10
+JUNIT,junit-4.2,NoTestCases.java,0.0,1.0,0.0,0.0,0.0,0.0,1,0,11
+JUNIT,junit-4.2,NotPublicTestCase.java,0.0,2.0,0.0,0.0,0.0,0.0,1,0,13
+JUNIT,junit-4.2,NotVoidTestCase.java,0.0,3.0,0.0,0.0,0.0,0.0,1,0,14
+JUNIT,junit-4.2,OneTestCase.java,0.0,3.0,0.0,0.0,0.0,0.0,1,2,15
+JUNIT,junit-4.2,OverrideTestCase.java,0.0,1.0,0.0,0.0,0.0,0.0,1,0,10
+JUNIT,junit-4.2,RepeatedTestTest.java,0.0,8.0,0.0,0.0,0.0,0.0,1,0,62
+JUNIT,junit-4.2,StackFilterTest.java,0.0,2.0,0.0,0.0,0.0,0.0,1,0,46
+JUNIT,junit-4.2,Success.java,0.0,2.0,0.0,0.0,0.0,0.0,1,0,17
+JUNIT,junit-4.2,TestCaseTest.java,0.0,58.0,0.0,0.0,0.0,0.0,1,0,190
+JUNIT,junit-4.2,TestImplementorTest.java,0.0,3.0,0.0,0.0,0.0,0.0,1,0,54
+JUNIT,junit-4.2,TextRunnerTest.java,0.0,15.0,0.0,0.0,0.0,0.0,1,0,61
+JUNIT,junit-4.2,WasRun.java,1.0,1.0,0.0,0.0,0.0,0.0,1,0,15
